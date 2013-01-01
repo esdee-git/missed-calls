@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello!</string>
+    <string name="ok">OK</string>
+    <string name="app_name">MissedCalls</string>
+    <string name="service">MissedCalls Notification</string>
+    <string name="list_app_name">ListMissedCalls</string>
+    <string name="listCallsTitle">Here\'s a list of recent missed calls\nSelect to dial the number</string>
+    <string name="serviceStopped">MissedCalls Service Stopped</string>
+    <string name="serviceStarted">MissedCalls Service Started</string>
+    <string name="serviceFailedToStop">Failed to stop MissedCalls Service</string>
+    <string name="serviceFailedToStart">Failed to start MissedCalls Service</string>
+    <string name="serviceStopService">Stop Service</string>
+    <string name="serviceStartService">Start Service</string>
+    <string name="notificationContextText">recent missed calls</string>
+    <string name="notificationTickerText">you have missed calls</string>
+    <string name="couldntResolveNumber">Couldn\'t resolve phone number</string>
+    <string name="menuAbout">About</string>
+    <string name="menuAboutTitle">About MissedCalls</string>
+    <string name="menuAboutText">\nStart background service to add periodic sound notification for missed calls\n</string>
+
+</resources>
